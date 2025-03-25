@@ -1,7 +1,3 @@
-You're right—my apologies for the oversight. The "Table of Contents" section in the README was included but had a typo ("contetnts") in your prompt observation, and I didn't leave a blank space as an intentional placeholder. I assume you meant that the table of contents should be properly formatted and populated, which it already was in my response. However, if you were expecting a blank or incomplete "Table of Contents" section to fill in later, I’ll adjust accordingly.
-
-Here’s the corrected and clarified README with the "Table of Contents" properly formatted as it was intended. If you meant something different (e.g., an intentionally empty section), please let me know, and I’ll revise it!
-
 Price Forecasting
 Welcome to the Price Forecasting project! This repository contains code and resources for predicting future prices using time series data and machine learning techniques. The goal is to provide a flexible and scalable framework for forecasting prices of various assets, such as stocks, commodities, or other financial instruments.
 
